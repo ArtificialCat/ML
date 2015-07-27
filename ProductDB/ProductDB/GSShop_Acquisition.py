@@ -63,8 +63,8 @@ f.close()
 print str(len(title_list)) + ' ' + str(len(price_list)) + ' ' + str(len(link_list))
 
 
-# option_name = []
-# option_price = []
+option_name = []
+option_price = []
 #
 #
 #

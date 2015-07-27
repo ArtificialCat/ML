@@ -39,7 +39,7 @@ print 'Total Product count:' + str(len(data))
 print '\n'
 print 'Product Code exist:' + str(cnt_)
 print 'Total Product count:' + str(len(data_))
-
+#
 # con = sqlite3.connect('Matching.db')
 # cursor = con.cursor()
 # cursor.execute('CREATE TABLE GMARKET_GSSHOP (GMARKET_CODE TEXT, GSSHOP_CODE TEXT)')
